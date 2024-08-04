@@ -3,7 +3,7 @@
       "name": "SticKernel-KernelSU",
       "repo": "https://github.com/Aquarius223/xiaomi_stickernel_sdm845/",
       "branch": "kernel.lnx.4.9.r34-rel",
-      "device": "sdm845-perf"
+      "device": "polaris"
     },
     "withKernelSU": false,
     "toolchains": [
