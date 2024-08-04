@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "utopia-KernelSU",
-      "repo": "https://github.com/unknownbaka/utopia_kernel_polaris",
-      "branch": "staging",
-      "device": "polaris"
+      "name": "SticKernel-KernelSU",
+      "repo": "https://github.com/Aquarius223/xiaomi_stickernel_sdm845/",
+      "branch": "kernel.lnx.4.9.r34-rel",
+      "device": "sdm845-perf"
     },
     "withKernelSU": false,
     "toolchains": [
